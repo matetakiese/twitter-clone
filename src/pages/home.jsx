@@ -6,6 +6,7 @@ import Happening from '../components/editor.jsx';
 import TweetCommit from '../components/tweetcommit.jsx';
 import TweetCommitTwo from '../components/tweetcommittwo.jsx';
 import TweetBodyTwo from '../components/tweetbodytwo.jsx';
+import Siderbar from '../components/siderbar.jsx';
 
 function Home() {
 
@@ -18,6 +19,7 @@ function Home() {
       <TweetCommit />
       <TweetCommitTwo />
       <TweetBodyTwo />
+      <Siderbar />
     </main>
   );
 }
