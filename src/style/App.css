@@ -264,7 +264,6 @@ span {
 
  .box {
     width: 200px;
-   
     padding: 5px;
     border-radius: 30px;
     display: flex;
@@ -272,7 +271,8 @@ span {
     
  }
  .inputbox {
-    background: #6E767D;
+    background: transparent;
+    color: #FFFFFF;
     width: 200px;
     outline: 0px;
     border: 0px;
