@@ -4,7 +4,7 @@ function TheNewYorkTimes() {
     <>
     <section className="tweet">
       <div className="tweet-avatar">
-        <img src="src\Icons\Tweet-Profile-Phot- icons.svg" alt="avatar" />
+        <img src="src\Icons\Icons\Profile-Photo.svg" alt="avatar" />
       </div>
       <div className="tweet-content">
         <div className="tweet-title">
